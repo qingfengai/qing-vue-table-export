@@ -1,6 +1,6 @@
 {
   "name": "qingfengai-vue-table-export",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "qing-vue-table-export",
   "main": "dist/export.js",
   "files": [
